@@ -1,0 +1,17 @@
+olivia-birthday/
+├── AGENTS.md
+├── README.md
+├── docs/
+│   ├── ARCHITECTURE.md
+│   ├── IMPLEMENTATION-PROMPTS.md
+│   └── ASSET-CHECKLIST.md
+└── .agents/
+    └── skills/
+        ├── frontend-design/SKILL.md
+        ├── pixel-art-direction/SKILL.md
+        ├── romantic-storytelling/SKILL.md
+        ├── motion-interactions/SKILL.md
+        ├── responsive-accessibility/SKILL.md
+        ├── audio-experience/SKILL.md
+        ├── performance-quality/SKILL.md
+        └── vercel-deployment/SKILL.md
